@@ -1,0 +1,11 @@
+<!-- - Name: Jeremiah Nnadi
+- StudentID: S1903336-->
+
+<resources>
+    <string name="app_name">QuakerApp</string>
+    <!--    https://www.earthquakeauthority.com/Blog/2020/Earthquake-Measurements-Magnitude-vs-Intensity-->
+    <string name="google_maps_key">AIzaSyBmN4D84bvW0QxyLGPLqXk6yBHjjEbG-7Y</string>
+    <string name="student_name">Jeremiah Nnadi</string>
+    <string name="quakerapp">Quaker App</string>
+    <string name="studentID">S1903336</string>
+</resources>

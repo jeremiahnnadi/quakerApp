@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- - Name: Jeremiah Nnadi
+- StudentID: S1903336-->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item_filter"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Filter"
+        app:showAsAction="always" />
+</menu>

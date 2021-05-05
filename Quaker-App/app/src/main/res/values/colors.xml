@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- - Name: Jeremiah Nnadi
+- StudentID: S1903336-->
+
+<resources>
+    <color name="quaker">#CC6510</color>
+    <color name="quaker_back">#83919C</color>
+    <color name="p_teal">#FFF8EE</color>
+    <color name="p_yellow">#F6E683</color>
+    <color name="p_orange">#FFAF68</color>
+    <color name="p_blue">#31BFF3</color>
+    <color name="p_tulip">#F8858B</color>
+    <color name="p_red">#E54C38</color>
+    <color name="p_red_plus">#C23A22</color>
+    <color name="p_green">#79D45E</color>
+    <color name="p_lavender">#A484E9</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="orange">#FFA500</color>
+</resources>

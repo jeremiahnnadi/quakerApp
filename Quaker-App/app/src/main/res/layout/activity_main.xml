@@ -1,0 +1,60 @@
+<!-- - Name: Jeremiah Nnadi
+- StudentID: S1903336-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/salutation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:fontFamily="@font/lato"
+        android:gravity="center"
+        android:text="S1903336"
+        android:textSize="16sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:fontFamily="@font/lato"
+        android:gravity="center"
+        android:paddingLeft="8dp"
+        android:text="Jeremiah Nnadi"
+        android:textSize="17sp" />
+
+
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:background="@drawable/rounded_corners"
+        android:fontFamily="@font/lato"
+        android:text="Load Earthquake Data" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="4dp"
+        android:layout_weight="1" />
+
+    <TextView
+        android:id="@+id/acknowledgement"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:background="@color/quaker"
+        android:fontFamily="@font/lato"
+        android:gravity="center"
+        android:text="Mobile Platform Development"
+        android:textColor="@color/white"
+        android:textSize="15sp" />
+
+</LinearLayout>
